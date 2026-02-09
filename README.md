@@ -4,12 +4,12 @@ some of these were just tests while others were actual games that i was pretty h
   
 ## Links to the actually interesting ones (in browser):  
   
-<ins>Im really happy with these two:</ins>  
+<ins>Im really happy with these three:</ins>  
 Balatro Lite - https://academy.cs.cmu.edu/sharing/lemonChiffonBear6639  
 Terraria Bossfight - https://academy.cs.cmu.edu/sharing/plumSpider6106  
+Doodle Jump Remix - https://academy.cs.cmu.edu/sharing/oliveDrabHippo3929
   
 <ins>Some other cool games:</ins>  
-Doodle Jump Remix - https://academy.cs.cmu.edu/sharing/oliveDrabHippo3929  
 Scuffed Geometry Dash - https://academy.cs.cmu.edu/sharing/ivoryDeer6709  
 Reaction Climbing Game - https://academy.cs.cmu.edu/sharing/cornflowerBlueSquirrel6017  
 Risk of Rain 2 but bad - https://academy.cs.cmu.edu/sharing/peachPuffGoat8200  
